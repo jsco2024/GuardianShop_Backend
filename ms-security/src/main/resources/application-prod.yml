@@ -1,0 +1,55 @@
+server:
+  port: ${PORT}
+
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: none
+    show-sql: false
+    open-in-view: false
+    properties:
+      hibernate.dialect: org.hibernate.dialect.MySQL8Dialect
+  doc:
+    swagger-ui:
+      disable-swagger-default-url: true
+      path: /swagger
+  datasource:
+    url: ENC(${URL_DB})
+    username: ENC(${USERNAME_DB})
+    password: ENC(${PSS})
+    driver-class-name: ${DRIVE}
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: ENC(${EMAIL})
+    password: ENC(${PW})
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+
+external:
+  url-api-container: ${EXTERNAL_API_URL}
+
+stripe:
+  key:
+    secret: ${STRIPE_KEY_SECRET}
+    public: ${STRIPE_KEY_PUBLIC}
+
+paypal:
+  client-id: ${CLIENT_ID}
+  client-secret: ENC(${CLIENT_SECRET})
+  client-mode: ${CLIENT_MODE} # Use #sandbox for testing and 'live' for Production
+
+mercadopago:
+  access:
+    token: ${TOKEN}
+    public-key: ${PUBLIC_KEY}
+
+jasypt:
+  encryptor:
+    algorithm: PBEWithMD5AndDES
+    iv-generator-classname: org.jasypt.iv.NoIvGenerator
+    password: ${JASYPT_ENCRYPTOR}
