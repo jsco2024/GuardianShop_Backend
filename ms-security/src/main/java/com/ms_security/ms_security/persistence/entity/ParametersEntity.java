@@ -5,7 +5,7 @@ import lombok.Data;
 import java.time.LocalDateTime;
 
 @Entity
-@Table(name = "parameters")
+@Table(name = "parameters", schema = "railway")
 @Data
 public class ParametersEntity {
 
@@ -22,15 +22,15 @@ public class ParametersEntity {
     @Column(name = "PARAMETER")
     private String parameter;
 
-    @Column(name = "USER_CREATION")
+    @Column(name = "CREATE_USER")
     private String userCreation;
 
-    @Column(name = "USER_UPDATE")
+    @Column(name = "UPDATE_USER")
     private String userUpdate;
 
-    @Column(name = "DATE_CREATION")
+    @Column(name = "DATE_TIME_CREATION")
     private String dateCreation;
 
-    @Column(name = "DATE_UPDATE")
+    @Column(name = "DATE_TIME_UPDATE")
     private String dateUpdate;
 }

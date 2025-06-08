@@ -7,7 +7,7 @@ import lombok.*;
 import java.util.List;
 
 @Entity
-@Table(name = "CART", schema = "ECOMERS_WITH_INVENTORY")
+@Table(name = "CART", schema = "railway")
 @NoArgsConstructor
 @Getter
 @Setter

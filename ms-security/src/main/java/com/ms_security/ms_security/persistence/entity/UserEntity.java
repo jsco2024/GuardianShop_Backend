@@ -14,7 +14,7 @@ import java.util.Set;
 @NoArgsConstructor
 @ToString
 @EqualsAndHashCode
-@Table(name = "USERS", schema = "ECOMERS_WITH_INVENTORY")
+@Table(name = "USERS", schema = "railway")
 @Entity
 public class UserEntity {
     @Id

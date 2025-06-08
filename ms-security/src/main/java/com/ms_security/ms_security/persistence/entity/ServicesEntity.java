@@ -8,7 +8,7 @@ import java.util.Date;
 import java.util.List;
 
 @Entity
-@Table(name = "SERVICES", schema = "ECOMERS_WITH_INVENTORY")
+@Table(name = "SERVICES", schema = "railway")
 @NoArgsConstructor
 @Getter
 @Setter

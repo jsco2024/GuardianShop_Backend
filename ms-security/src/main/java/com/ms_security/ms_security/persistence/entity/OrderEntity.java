@@ -8,7 +8,7 @@ import java.math.BigDecimal;
 import java.util.List;
 
 @Entity
-@Table(name = "ORDERS", schema = "ECOMERS_WITH_INVENTORY")
+@Table(name = "ORDERS", schema = "railway")
 @NoArgsConstructor
 @Getter
 @Setter

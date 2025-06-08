@@ -9,7 +9,7 @@ import java.math.BigDecimal;
 import java.util.List;
 
 @Entity
-@Table(name = "EXITS", schema = "ECOMERS_WITH_INVENTORY")
+@Table(name = "EXITS", schema = "railway")
 @NoArgsConstructor
 @Getter
 @Setter
