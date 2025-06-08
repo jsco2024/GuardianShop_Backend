@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.stripe:stripe-java:26.12.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.stripe" artifactId="stripe-java" version="26.12.0" baseVersion="26.12.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.stripe/stripe-java/26.12.0/44161694c46a50b04fd9d627c15b93461abe360e/stripe-java-26.12.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.stripe/stripe-java/26.12.0/69d446320a911f34257bc3e9cb520c1d9c596744/stripe-java-26.12.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.stripe/stripe-java/26.12.0/dd9191ec96153d22b86a1eadc95ee3d158608036/stripe-java-26.12.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

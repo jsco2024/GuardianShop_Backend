@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.codehaus.plexus:plexus-velocity:1.2" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.codehaus.plexus" artifactId="plexus-velocity" version="1.2" baseVersion="1.2" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-velocity/1.2/1331b9d6bbf99ead362c68c2f318ebe5fedda598/plexus-velocity-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-velocity/1.2/1cbb29a7fc2d4c8c07616b35add1d99c54809f4c/plexus-velocity-1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-velocity/1.2/c186408567fb5f514496331330eb206b82ba1eae/plexus-velocity-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

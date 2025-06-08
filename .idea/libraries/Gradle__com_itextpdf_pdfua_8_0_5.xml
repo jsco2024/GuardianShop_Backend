@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.itextpdf:pdfua:8.0.5" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.itextpdf" artifactId="pdfua" version="8.0.5" baseVersion="8.0.5" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.itextpdf/pdfua/8.0.5/374eb8cb8ab4ace402ed2878d1065dd52f87de47/pdfua-8.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.itextpdf/pdfua/8.0.5/854b3381e5dcd5e85314b868b4ea9d0602a6a049/pdfua-8.0.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.itextpdf/pdfua/8.0.5/496bee4509649e9658f18a6e2b62a2446385f206/pdfua-8.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

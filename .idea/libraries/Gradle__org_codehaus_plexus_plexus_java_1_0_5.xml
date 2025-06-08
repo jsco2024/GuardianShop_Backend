@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.codehaus.plexus:plexus-java:1.0.5" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.codehaus.plexus" artifactId="plexus-java" version="1.0.5" baseVersion="1.0.5" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-java/1.0.5/2963bcda3b9abdf26a6fb1ab5b4f7d82dfa18ae4/plexus-java-1.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-java/1.0.5/7619941fbd48b459805952df704c95c1b6398f75/plexus-java-1.0.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-java/1.0.5/ed4d70c3e58d7cc140537c9d2f53dddc8a461d0e/plexus-java-1.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

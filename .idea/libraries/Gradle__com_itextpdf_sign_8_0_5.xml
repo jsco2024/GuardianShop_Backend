@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.itextpdf:sign:8.0.5" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.itextpdf" artifactId="sign" version="8.0.5" baseVersion="8.0.5" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.itextpdf/sign/8.0.5/e9a83b725c34bcb618195c8ae9a71507103f4e1c/sign-8.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.itextpdf/sign/8.0.5/5425e62b1979b5670189a8efa22b2b8477341aa4/sign-8.0.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.itextpdf/sign/8.0.5/898ddeb7b826c3414bf80e604289880aa7c5c572/sign-8.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

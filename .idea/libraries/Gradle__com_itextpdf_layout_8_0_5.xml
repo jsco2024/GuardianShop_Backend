@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.itextpdf:layout:8.0.5" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.itextpdf" artifactId="layout" version="8.0.5" baseVersion="8.0.5" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.itextpdf/layout/8.0.5/4117f0047dccb33a2331e0709cbf702c965268a7/layout-8.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.itextpdf/layout/8.0.5/f21e12998005d9ebec96561801e1da5e5f48cb3f/layout-8.0.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.itextpdf/layout/8.0.5/889ba31d8e969d6c9f162bd883d2adf8c07bafaf/layout-8.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

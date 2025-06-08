@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/EComersWithInventory.iml" filepath="$PROJECT_DIR$/.idea/EComersWithInventory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ms-security.iml" filepath="$PROJECT_DIR$/.idea/modules/ms-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ms-security.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ms-security.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ms-security.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ms-security.test.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.maven.shared:maven-common-artifact-filters:3.0.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.apache.maven.shared" artifactId="maven-common-artifact-filters" version="3.0.1" baseVersion="3.0.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.shared/maven-common-artifact-filters/3.0.1/1a98d8e3d5610bb0abf09a7756195e8b2ed215e5/maven-common-artifact-filters-3.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.shared/maven-common-artifact-filters/3.0.1/e80bc5770bad826785c8273b1969ff4595ac7496/maven-common-artifact-filters-3.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.shared/maven-common-artifact-filters/3.0.1/bea51de71f44dbc129b6ae3d4d6b11a8a8cdf732/maven-common-artifact-filters-3.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

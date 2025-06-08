@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.maven:maven-archiver:3.5.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.apache.maven" artifactId="maven-archiver" version="3.5.0" baseVersion="3.5.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-archiver/3.5.0/e9f5e403263aba6fb09b21383ffb3c7dd36749a7/maven-archiver-3.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-archiver/3.5.0/25aba23d44ac148dcdf8f9d2ea53acbdaec3b4b0/maven-archiver-3.5.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-archiver/3.5.0/9689f636d393e350a58fea52690960d4573354fa/maven-archiver-3.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.itextpdf:bouncy-castle-connector:8.0.5" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.itextpdf" artifactId="bouncy-castle-connector" version="8.0.5" baseVersion="8.0.5" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.itextpdf/bouncy-castle-connector/8.0.5/730366271216667b537da864444846bb6a0fc83b/bouncy-castle-connector-8.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.itextpdf/bouncy-castle-connector/8.0.5/d12bc92eb6688ed66d16521e5d8458a1a4d6c9a0/bouncy-castle-connector-8.0.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.itextpdf/bouncy-castle-connector/8.0.5/91d3450e4efcb55f5fd322a009c89737148d87cf/bouncy-castle-connector-8.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

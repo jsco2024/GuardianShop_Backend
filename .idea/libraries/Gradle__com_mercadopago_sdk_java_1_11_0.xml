@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mercadopago:sdk-java:1.11.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.mercadopago" artifactId="sdk-java" version="1.11.0" baseVersion="1.11.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mercadopago/sdk-java/1.11.0/ad184f3f2ebaa9f698b4a72e72291d9c4e664171/sdk-java-1.11.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mercadopago/sdk-java/1.11.0/2d2c7f1def3306b3f11520a576baedd6b65c6b64/sdk-java-1.11.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mercadopago/sdk-java/1.11.0/ae15429702f4c00694edae3e42e8ce9e2ac50d23/sdk-java-1.11.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

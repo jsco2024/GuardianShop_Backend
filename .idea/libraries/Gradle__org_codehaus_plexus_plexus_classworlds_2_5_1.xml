@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.codehaus.plexus:plexus-classworlds:2.5.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.codehaus.plexus" artifactId="plexus-classworlds" version="2.5.1" baseVersion="2.5.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-classworlds/2.5.1/98fea8e8c3fb0e8670a69ad6ea445872c9972910/plexus-classworlds-2.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-classworlds/2.5.1/d382ce33be900144feee5556dd9c62cb363d3e8a/plexus-classworlds-2.5.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-classworlds/2.5.1/1210cafab2df0703db2dfcad540297ba3a9931ef/plexus-classworlds-2.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

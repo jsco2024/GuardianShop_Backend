@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.collections:google-collections:1.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.google.collections" artifactId="google-collections" version="1.0" baseVersion="1.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.collections/google-collections/1.0/9ffe71ac6dcab6bc03ea13f5c2e7b2804e69b357/google-collections-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.collections/google-collections/1.0/4a02bcc6bb9f9445659551e3c3469b65440c8dd1/google-collections-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.collections/google-collections/1.0/8283dd0edd369f2cb594cd3f2433c498801bcb09/google-collections-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Confirmation</title>
+    <style>
+        body {
+            font-family: Helvetica, Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background-color: #FEE092;  /* Color del cuadro */
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        .header-title {
+            font-size: 20px;
+            font-weight: bold;
+            line-height: 150%;
+            text-align: center;
+            color: #ffffff;
+            background-color: #6A9294;
+            padding: 20px;
+            border-radius: 5px;
+        }
+        .content {
+            font-size: 18px;
+            line-height: 150%;
+            text-align: left;
+            color: #111111;
+            padding: 20px 0;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="header-title">
+        Thank You for Contacting Us
+    </div>
+    <div class="content">
+        <p th:text="${message}">Hello, we have received your inquiry and will get back to you soon.</p>
+        <p>Thank you,</p>
+        <p>Support Guardian Shop Team</p>
+    </div>
+</div>
+</body>
+</html>

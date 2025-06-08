@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.codehaus.plexus:plexus-archiver:4.2.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.codehaus.plexus" artifactId="plexus-archiver" version="4.2.1" baseVersion="4.2.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-archiver/4.2.1/87ef88f65d61e0deee4403c145a26d2e273d30cf/plexus-archiver-4.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-archiver/4.2.1/e1f60c5b59f1a604671a74d7d382fc75e231ff7e/plexus-archiver-4.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-archiver/4.2.1/3010b279adf79c0dd61aed5de80deeb91252ffc4/plexus-archiver-4.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

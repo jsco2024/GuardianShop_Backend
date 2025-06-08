@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.codehaus.plexus:plexus-container-default:1.7.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.codehaus.plexus" artifactId="plexus-container-default" version="1.7.1" baseVersion="1.7.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-container-default/1.7.1/c10eaacd916f4ae5f1741d04e5841e854d6f7a1e/plexus-container-default-1.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-container-default/1.7.1/374200356be7ad10c870cdd0bd90312649028f50/plexus-container-default-1.7.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-container-default/1.7.1/fa141da5254c4640aa90e3fa9ea44564e3ab995a/plexus-container-default-1.7.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
