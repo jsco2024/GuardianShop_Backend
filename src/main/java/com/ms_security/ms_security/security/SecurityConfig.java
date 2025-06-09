@@ -58,7 +58,8 @@ public class SecurityConfig {
                 _permissionConsultations
         );
         CorsConfiguration corsConfiguration = new CorsConfiguration();
-        corsConfiguration.addAllowedOrigin("http://guardianshop-frontend.onrender.com");
+        corsConfiguration.addAllowedOrigin("http://localhost:5173");
+        corsConfiguration.addAllowedOrigin("https://guardianshop-frontend.onrender.com");
         corsConfiguration.addAllowedMethod("*");
         corsConfiguration.addAllowedHeader("*");
         corsConfiguration.setAllowCredentials(true);

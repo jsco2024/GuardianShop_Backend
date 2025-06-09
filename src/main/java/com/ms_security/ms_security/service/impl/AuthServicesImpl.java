@@ -175,20 +175,17 @@ public class AuthServicesImpl implements IAuthServices {
 
     @Override
     public void changePassword(ChangePasswordDto changePasswordDto) throws Exception {
-        // Validar el token antes de intentar cambiar la contraseña
         boolean isTokenValid = _jwtUtilityService.validateToken(changePasswordDto.getToken());
         if (!isTokenValid) {
-            throw new Exception("Invalid token"); // Lanza una excepción si el token no es válido
+            throw new Exception("Invalid token");
         }
-
-        // Si el token es válido, obtener el usuario asociado
         Optional<UserEntity> user = getUserFromToken(changePasswordDto.getToken());
         if (user.isPresent()) {
             BCryptPasswordEncoder encoder = new BCryptPasswordEncoder(12);
             user.get().setPassword(encoder.encode(changePasswordDto.getNewPassword()));
             _userConsultations.updateData(user.get());
         } else {
-            throw new Exception("Invalid token"); // Esto podría ser redundante, pero lo mantenemos por seguridad
+            throw new Exception("Invalid token");
         }
     }
 
